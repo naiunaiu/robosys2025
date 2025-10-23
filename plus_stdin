@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+#!/usr/bin/python3
+# SPDX-FileCopyrightText: 2025 Satoh-Narumi
 import sys  
 
 
@@ -8,7 +10,11 @@ for line in sys.stdin:
         ans += float(line)
     except:
         ans += float(line)
+<<<<<<< HEAD
 
+=======
+#変更点、なし
+>>>>>>> runch
 print(ans)
 
 
