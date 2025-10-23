@@ -7,4 +7,4 @@ tester
 
     - [ryuichiueda/my_slides robosys_2025](https://ryuichiueda.github.io/slides_marp/robosys2025/lesson5.html)
 
-- @ 2025 Satoh Narumi
+- © 2025 Satoh Narumi
