@@ -10,11 +10,9 @@ for line in sys.stdin:
         ans += float(line)
     except:
         ans += float(line)
-<<<<<<< HEAD
 
-=======
 #変更点、なし
->>>>>>> runch
+
 print(ans)
 
 
