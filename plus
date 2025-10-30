@@ -7,9 +7,9 @@ import sys
 ans = 0
 for line in sys.stdin:
     try:
-        ans += float(line)
+        ans += int(line)
     except:
-        ans += float(line)
+        ans += int(line)
 
 #変更点、なし
 
