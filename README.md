@@ -18,7 +18,7 @@ tester
   - Python 3.7~3.10で検証済み
 
 # テスト環境
-  -Ubuntu 24.04 LTS
+  - Ubuntu 24.04 LTS
 
 
 - © 2025 Satoh Narumi
